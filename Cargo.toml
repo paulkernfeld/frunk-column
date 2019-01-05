@@ -1,0 +1,12 @@
+[package]
+name = "frunk-column"
+description = "A prototype of columnar data storage using frunk HLists"
+version = "0.1.0"
+authors = ["Paul Kernfeld <paulkernfeld@gmail.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/paulkernfeld/frunk-column"
+edition = "2018"
+
+[dependencies]
+frunk = "0.2"
+frunk_core = "0.2"
